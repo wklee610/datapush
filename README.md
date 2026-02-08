@@ -1,5 +1,7 @@
 # Datapush
 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/datapush?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/datapush)
+
 Datapush is a Python package that generate data to MySQL Database dynamically.  
 
 When you need data for MySQL for some reasons (for test), and too lazy to make mock data, here is the answer.  
